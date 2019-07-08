@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">taller</string>
+    <string name="label_cantidad">Digite la cantidad de manillas</string>
+    <string name="titulo">Venta de Manillas</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="oro">Oro</string>
+    <string name="oro_rosado">Oro Rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="label_valor_unitario">Valor Unitario</string>
+    <string name="label_total">Valor Total</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="dolar">Dolar</string>
+    <string name="peso_colombiano">Pesos Colombianos</string>
+    <string name="error_1">Digite la cantidad de manillas</string>
+    <string name="error_0">La cantidad de manillas no puede ser cero</string>
+    <string-array name="materiales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="dijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>@string/oro</item>
+        <item>@string/oro_rosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="monedas">
+        <item>@string/dolar</item>
+        <item>@string/peso_colombiano</item>
+    </string-array>
+</resources>
